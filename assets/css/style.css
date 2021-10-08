@@ -10863,5 +10863,8 @@ footer .footer-bottom {
 .search-container button:focus {
   outline: 0;
 }
+.sombrinha{
+text-shadow: 2px 2px #000000;
+}
 
 /*# sourceMappingURL=maps/style.css.map */
